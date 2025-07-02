@@ -1,4 +1,4 @@
-# Online Sales Trend Analysis Using SQL
+# Sales Trend Analysis Using SQL
 
 This project performs sales trend analysis using MySQL on an online sales dataset. The objective is to identify monthly and regional sales patterns, revenue trends, and transactional behavior using SQL aggregation techniques.
 
